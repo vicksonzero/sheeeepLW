@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sheeeep Live Wallpaper</string>
+    <string name="app_description">Live Wallpaper Sheeeep raising game</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- Application name -->
+
+    <string name="livewallpaper_settings">Settings</string>
+    <string name="livewallpaper_settings_title">Select test pattern</string>
+    <string name="livewallpaper_settings_summary">
+		Choose which test pattern to display</string>
+    <string name="livewallpaper_movement_title">Motion</string>
+    <string name="livewallpaper_movement_summary">
+		Apply movement to test pattern</string>
+	
+
+</resources>
