@@ -13,3 +13,11 @@ How to use
 5. choose "Sheeeep Live Wallpaper", press "set wallpaper"
 6. enjoy
 7. comment
+
+
+Code!
+=====
+
+* `LiveWallpaperService.java` is the main loop of the software. will need to refactor this to become more structured.
+* `Sheeeep.java` is the class for sheeeep.
+* `res/drawable-xxxx` are folders for sprites. will change to spritesheet in some time
