@@ -71,7 +71,8 @@ public class LiveWallpaperService extends WallpaperService {
 				sheeeeps.add(
 						new Sheeeep(
 								Math.random()* (width), 
-								Math.random()* (height - Sheeeep.sp_running[0].getHeight())
+								Math.random()* (height - Sheeeep.sp_running[0].getHeight()),
+								Math.random()*3+3
 								)
 						);
 			}
