@@ -1,7 +1,7 @@
 sheeeepLW
 =========
 
-a large bunch of sheeeeps on your android home screen
+adds a large bunch of sheeeeps on your android home screen
 
 How to use
 ==========
